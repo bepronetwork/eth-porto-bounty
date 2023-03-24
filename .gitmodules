@@ -1,0 +1,3 @@
+[submodule "fundec-ethporto"]
+	path = fundec-ethporto
+	url = https://github.com/vitorribeiro99/fundec-ethporto
